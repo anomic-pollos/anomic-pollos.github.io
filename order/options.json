@@ -1,14 +1,10 @@
 [
     {
-        "name": "Account",
+        "name": "Accounts",
         "role_id": 1490668520504168588
     },
     {
         "name": "Anomic Cash",
         "role_id": 1490668704881578014
     },
-    {
-        "name": "Pro Gamer",
-        "role_id": 1490645799263015063
-    }
 ]
