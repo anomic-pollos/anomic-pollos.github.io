@@ -1,4 +1,6 @@
-## <:Token:1493260462610190538> 1 Credit
+## 1 Credit
+One credit equals all the following currencies individually:
+
   = <:RobuxGolden:1493259363459268831> 25
   = <:PayPal:1493259736638816346> $0.20
   = <:Crypto:1493259772684927248> $0.18
