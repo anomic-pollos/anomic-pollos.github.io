@@ -1,5 +1,6 @@
-[
 {
+
+  {
   "content": "",
   "tts": false,
   "embeds": [
@@ -9,23 +10,6 @@
       "color": 2317291,
       "fields": [],
       "title": "Account Prices"
-    }
-  ],
-  "components": [],
-  "actions": {},
-  "flags": 0
-},
-  
-{
-  "content": "",
-  "tts": false,
-  "embeds": [
-    {
-      "id": 652627557,
-      "description": "\n**Normal Amount (<40m)**  \n🟠 **Robux Price**: **90 R$** per million  \n💰 **PayPal Price**: **0.30 USD** per million  \n🔗 **Crypto Price**: **0.25 USD** per million  \n\n**Bulk Amount (40m+)**  \n🟠 **Robux Price**: **80 R$** per million  \n💰 **PayPal Price**: **0.25 USD** per million  \n🔗 **Crypto Price**: **0.20 USD** per million  \n\n━━━━━━━━━━━━━━━━━━━━━━\n\n**All prices are in Credits** (using our credit system)\n\n**Normal Amount (<40 million)**  \n:moneybag: **1.5 Credits** per million  \n\n**Bulk Amount (40 million+)**  \n:moneybag: **1.25 Credits** per million  \n\n**1 Credit = 25 Robux = $0.20 PayPal = $0.18 Crypto**",
-      "color": 2349547,
-      "fields": [],
-      "title": "Anomic Cash Prices"
     }
   ],
   "components": [],
