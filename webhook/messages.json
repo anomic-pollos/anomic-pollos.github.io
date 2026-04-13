@@ -1,19 +1,20 @@
 [
-  {
-    "content": "",
-    "tts": false,
-    "embeds": [
-      {
-        "id": 652627557,
-        "description": "### 🌟 **Fresh Aged Accounts** 🌟\n\n**Semi-Aged Accounts (10-30 days old)**  \n💰 **PayPal Price**: **0.50 – 0.90 USD** per account  \n🔗 **Crypto Price**: **0.45 – 0.85 USD** per account  \n🟠 **Robux Price**: **60 – 100 R$** per account\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n### 🔥 **Premium Aged Accounts** 🔥\n\n**Well-Aged Accounts (30+ days old)**  \n💰 **PayPal Price**: **1 – 2 USD** per account  \n🔗 **Crypto Price**: **0.90 – 1.80 USD** per account  \n🟠 **Robux Price**: **100 – 200 R$** per account",
-        "color": 2317291,
-        "fields": []
-      }
-    ],
-    "components": [],
-    "actions": {},
-    "flags": 0
-  },
+{
+  "content": "",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 652627557,
+      "description": "## :Token: 1 Credit\n**= :Robux: 25 **\n**= :PayPal: $0.20**\n**= :Crypto: $0.18**\n\n### New Accounts (<10 days old):\n:moneybag:1 Credit\n### Semi-Aged Accounts (~10+ days old):\n:moneybag:2 Credits\n### Moderate-Aged Accounts (~30+ days old):\n:moneybag:4 Credits\n### Aged Accounts (~100+ days old):\n:moneybag:6 Credits\n\n### Account with verified Email:\nYou will get the account and Email in one.\n:moneybag:6 Credits\n### Aged Account with verified Email (30+ days old):\nYou will get the account and Email in one.\n:moneybag:10 Credits\n### Account with verified Phone number:\nAn account with a verified Email, and Phone number. You will not get a free virtual Sim card along with the account, only the Email information.\n:moneybag:18 Credits\n### Aged Account with verified Phone number (30+ days old):\nAn account with a verified Email, and Phone number. You will not get a free virtual Sim card along with the account, only the Email information.\n:moneybag:24 Credits",
+      "color": 2317291,
+      "fields": [],
+      "title": "Account Prices"
+    }
+  ],
+  "components": [],
+  "actions": {},
+  "flags": 0
+},
   
   {
     "content": "",
